@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RADIUS Two-Factor</string>
+    <string name="action_settings">Settings</string>
+    <string name="Welcome">Welcome to the registration app from PlainTech. Here, you can login to enable the extra authentication option for getting messages to your mobile.</string>
+    <string name="Explanation">Step 1: Make sure you\'re logged in with Google play.\nStep 2: Click on the Register with Google GCM button.\nStep 3: Click on the log into PlainTech and insert your credentials.\nStep 4: Login with extra authentication on the website!</string>
+    <string name="Login">Please use your credentials for logging into PlainTech. If valid, you can login again on the website with extra authentication checked.</string>
+
+</resources>
